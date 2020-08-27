@@ -20,7 +20,7 @@ Reports was a new feature for Return Path Platform, so we had to set clear expec
 
 There were two problems to solve on this page:
 
-- First, the Return Path Seed List gained a second data source. Instead of just standard seed addresses, we now had standard seed addresses--what became CoreSeeds--and "intelligent" seed addresses, or what we called SmartSeeds. On this page, we needed to reflect the change and explain the difference between the two data sources.
+- First, the Return Path Seed List gained a second data source. Instead of just standard seed addresses, we now had standard seed addresses--what became CoreSeeds--and "intelligent" seed addresses, or what we called SmartSeeds. On this page, we needed to reflect the change and explain the difference between the two data sources.  
 
 - Second, we implemented statements across Return Path Platform to ask users not to upload personally identifiable information (PII) to the platform. Many email marketers find it useful to associate certain types of "personal" data to seed addresses in order to test merge fields for personalization, such as first and last name, account number, username, and so on. We simply asked that customers use placeholder data rather than data from real people.
 
