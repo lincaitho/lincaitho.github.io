@@ -6,15 +6,17 @@ _Technical writer and editor with experience in digital marketing_
 
 ## UI Work
 
+Each of the thumbnails below can be opened for a larger view of the UI.
+
 ### Reports
 
-![](images/RP_Reports.png)
+[![](images/RP_Reports.png)](images/RP_Reports.png)
 
 Reports was a new feature for Return Path Platform, so we had to set clear expectations about how to use the feature and when new reports could be expected. The image reflects that a month-to-date report for the current month could also be downloaded. Discussions included how to render full months versus month-to-date, whether to use `.csv` and `.pdf` or `CSV` and `PDF`, and the suitability of the term `deliverability metrics`.
 
 ### Seed List
 
-![](images/RP_Seed_List.png)
+[![](images/RP_Seed_List.png)](images/RP_Seed_List.png)
 
 There were two problems to solve on this page:
 
